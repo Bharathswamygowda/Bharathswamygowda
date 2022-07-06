@@ -2,7 +2,7 @@
 
 
 I'm Bharath S
-Having over 6 years of working experience in UI development
+Having over 4.5 years of working experience in UI development
 
 
 
