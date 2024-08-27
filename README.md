@@ -2,14 +2,13 @@
 
 
 I'm Bharath S
-Having over 4.5 years of working experience in UI development
-
+Highly skilled Ionic and Front-End Developer with over 7 years of extensive experience in developing innovative and user-friendly web and mobile applications. Proven track record of delivering high-quality solutions that meet and exceed client expectations. Seeking a challenging position where I can utilize my expertise in Ionic framework and front-end development technologies to contribute to the success of dynamic projects while continuously expanding my skills and knowledge in the ever-evolving field of software development. Passionate about crafting elegant and efficient code to create seamless digital experiences for users across various platforms.
 
 
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
